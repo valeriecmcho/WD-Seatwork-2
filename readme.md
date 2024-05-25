@@ -13,7 +13,7 @@
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-  As a skilled software developer, i excel in python and java programming with a passion for creating innovate solutions. my technical profeciency and problem solving abilities drive my success in developing hhigh-quality software applications. (Optional)
+  As a skilled software developer, I excel in python and java programming with a passion for creating innovate solutions. My technical profeciency and problem solving abilities drive my success in developing high-quality software applications. 
 </div>
 
 <br />
@@ -112,9 +112,3 @@ WD-Seatwork 2
 | W3School | Css tutorial | https://www.w3schools.com/css/ |
 
 
-## Resources
-
-<!-- TODO: Add References -->
-| Title | Purpose | Link |
-|-|-|-|
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
