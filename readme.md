@@ -83,6 +83,8 @@ Guiding Question:
 2. Do not rename any .html files; always use 'index.html' as the filename.
 3. File Structure to follow
 
+```
+
 WD-Seatwork 2
 └─ assets
 |   └─ css
