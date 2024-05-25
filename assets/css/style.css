@@ -1,0 +1,61 @@
+*{
+    margin:0;
+    padding:0;
+    background-color: skyblue;
+
+}
+.try1{ 
+    margin-top: 10px;
+display: flex;
+flex-direction: row;
+justify-content: center;
+height: 2%;
+gap: 10px;
+font-size: 20px;
+margin-bottom: 20px;
+}
+.try1 button{
+   height : 5%;
+   align-self:center;
+   
+}
+
+.try1 button:hover {
+    background-color: #04AA6D;
+    color: white;
+  }
+
+
+.try1 img {
+   width: 5%;
+   height: 5%;
+   border-radius: 50%;
+  }
+.head{
+    display: flex;
+    flex-direction: row; 
+    gap: 10px;
+    margin-bottom: 20px;
+
+}
+
+.head img{
+    margin-left: 20px;
+    width: 10rem;
+    height: 10rem;
+
+}
+
+.description{
+    margin-left: 20px;
+    margin-right: 20px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    height: 60%;
+    gap: 10px; 
+
+}
+.description h1{
+    font-size: 30px;
+    background-color: darkcyan;
+}
