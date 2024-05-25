@@ -6,14 +6,14 @@
 <div align="center">
   <a href="https://github.com/zyx-0314/">
   <!-- TODO: If you want to add logo or banner you can add it here -->
-    <img src="./assets/img/nyebe_white.png" alt="Nyebe" width="130" height="100">
+    <img src="./assets/img/val.jpg" alt="val" width="130" height="100">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
-  <h3 align="center">Title</h3>
+  <h3 align="center">Seatwork-2</h3>
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-  Short Description. (Optional)
+  As a skilled software developer, i excel in python and java programming with a passion for creating innovate solutions. my technical profeciency and problem solving abilities drive my success in developing hhigh-quality software applications. (Optional)
 </div>
 
 <br />
@@ -57,20 +57,20 @@
 
 <!-- TODO: To be changed -->
 <!-- The following are just sample -->
-Description of the project in details.
+WD-Seatwork 2 description
 
 Guiding Question:
-- What is the project
-- Whats the purpose
-- What are key components
-- What technology used and how it is used
+- WD-Seatwork 2 
+- To create resume and learn wireframe
+- HTML and CSS
+- VSCODE and extensions
 
 ### Key Components
 <!-- TODO: List of Key Components -->
 <!-- The following are just sample -->
-- MultiPage Website/Single Page Website
-- Parallax transition
-- Transactional
+- External css
+- Single page
+- Wireframe
 
 ### Technology
 <!-- TODO: List of Technology Used -->
@@ -79,12 +79,11 @@ Guiding Question:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
 
 ## Rules and Principles
-1. Always use ***WD-*** in the front of the Title of the Project for the Subject followed by your custom naming.
+1. Always use **WD-** in the front of the Title of the Project for the Subject followed by your custom naming.
 2. Do not rename any .html files; always use 'index.html' as the filename.
 3. File Structure to follow
 
-```
-WD-ProjectName
+WD-Seatwork 2
 └─ assets
 |   └─ css
 |   |   └─ style.css
@@ -104,7 +103,14 @@ WD-ProjectName
 |     └─ index.html
 └─ index.html
 └─ readme.md
-```
+
+## Resources
+
+<!-- TODO: Add References -->
+| Title | Purpose | Link |
+|-|-|-|
+| W3School | Css tutorial | https://www.w3schools.com/css/ |
+
 
 ## Resources
 
